@@ -1,0 +1,11 @@
+div {
+  margin: 5px;
+  padding: 5px;
+}
+label {
+  margin-right: 5px;
+  font-weight: bold;
+}
+.center {
+  text-align: center;
+}
